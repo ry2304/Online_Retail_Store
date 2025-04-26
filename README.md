@@ -22,9 +22,8 @@ Key business metrics include customer acquisition, order volumes, revenue trends
 
 ---
 
-> The Jupyter Notebook containing the data cleaning and analysis process is available here: [Online Retail Store Analysis.ipynb](./Online%20Retail%20Store%20Analysis.ipynb)  
-> The dataset used for this project is available here: [Online Retail.csv](./Online%20Retail.csv)  
-
+> The Jupyter Notebook containing the data cleaning and analysis process is available [here](Online Retail Store Analysis.ipynb).  
+> The dataset used for this project is available [here](Online Retail.xlsx).   
 ---
 
 ## Data Structure and Initial Checks
