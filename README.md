@@ -1,10 +1,7 @@
 # Online Retail Store Analysis
 
-Welcome to the Online Retail Store Analysis repository.  
 This project contains a full data analysis process for a UK-based e-commerce company using Python.  
 The work focuses on data cleaning, exploration, visualization, insights, and actionable recommendations.  
-
-This is part of my data analytics portfolio as a college student passionate about turning data into business insights.
 
 ---
 
@@ -13,8 +10,6 @@ This is part of my data analytics portfolio as a college student passionate abou
 **Online Retail** is a UK-based e-commerce company specializing in wholesale giftware distribution.  
 They have been operating mainly across Europe since 2009, serving both businesses and direct consumers.  
 Key business metrics include customer acquisition, order volumes, revenue trends, and product return rates.  
-
-In this project, I approached the analysis as a data analyst tasked with identifying opportunities for business growth and operational improvements.
 
 ---
 
@@ -30,8 +25,6 @@ In this project, I approached the analysis as a data analyst tasked with identif
 > The Jupyter Notebook containing the data cleaning and analysis process is available here: [Online Retail Store Analysis.ipynb](./Online%20Retail%20Store%20Analysis.ipynb)  
 > The dataset used for this project is available here: [Online Retail.csv](./Online%20Retail.csv)  
 
-*Note: This project uses Python (Pandas, NumPy, Matplotlib, Seaborn). SQL and Tableau were not used.*
-
 ---
 
 ## Data Structure and Initial Checks
@@ -46,8 +39,6 @@ Initial steps taken:
 - Removed cancelled transactions
 - Removed duplicates
 - Handled negative or zero quantities
-
-*An Entity-Relationship Diagram is not included since only one table was used.*
 
 ---
 
@@ -114,9 +105,3 @@ Based on the findings above, the following actions are recommended:
 - Invoices starting with "C" indicated cancelled transactions and were removed.
 - Outlier transactions with extremely high quantities or prices were excluded.
 - Analysis focused on data from late 2010 to late 2011; future conditions may differ.
-
----
-
-# Thank you for visiting my project!
-
-Feel free to explore the Jupyter Notebook and dataset for the full analysis.
